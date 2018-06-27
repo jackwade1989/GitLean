@@ -2,4 +2,4 @@ Git is a distributed  version control ststem
 Git is free software distributed under the GPL
 git has a mutable index called stage test
 modified for testGit
-git track change
+git track change of file
